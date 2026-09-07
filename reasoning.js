@@ -280,4 +280,4 @@ module.exports = {
   resolveEffectiveThinking,
   StreamNormalizer,
   normalizeNonStreamChoice
-}; 
+};
